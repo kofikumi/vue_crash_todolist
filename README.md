@@ -14,3 +14,7 @@ npm run serve
 # Build for production
 npm run build
 ```
+
+# Update
+ Tried to make the app work with localStorage but run into issues help needed 
+
