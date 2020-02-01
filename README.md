@@ -15,6 +15,6 @@ npm run serve
 npm run build
 ```
 
-# Update
+## Update
  Tried to make the app work with localStorage but run into issues help needed. 
 
